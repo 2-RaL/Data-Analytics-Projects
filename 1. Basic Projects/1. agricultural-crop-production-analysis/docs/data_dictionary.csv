@@ -1,0 +1,18 @@
+column_name,data_type,description
+country,string,Country name
+iso3_code,string,ISO-3 country code
+year,integer,Observation year
+crop,string,Crop/product name
+area_harvested_ha,float,Harvested area in hectares
+yield_kg_per_ha,float,Crop yield in kilograms per hectare
+production_tonnes,float,Production volume in metric tonnes
+production_yoy_growth_pct,float,Year-over-year production growth percentage by crop
+yield_yoy_growth_pct,float,Year-over-year yield growth percentage by crop
+area_yoy_growth_pct,float,Year-over-year harvested area growth percentage by crop
+production_share_pct,float,Crop share in total crop production for the year
+yield_tonnes_per_ha,float,Crop yield in tonnes per hectare
+volatility_score,float,Standard deviation of YoY production growth by crop
+production_rank_by_year,integer,Rank by production volume within each year
+yield_rank_by_year,integer,Rank by yield within each year
+data_status,string,Indicates synthetic demo status
+source_note,string,Notes describing data provenance

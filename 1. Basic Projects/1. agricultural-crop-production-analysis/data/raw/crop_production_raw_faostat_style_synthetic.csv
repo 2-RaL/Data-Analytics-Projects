@@ -1,0 +1,331 @@
+country,iso3_code,year,crop,element,unit,value,data_status,source_note
+Azerbaijan,AZE,2014,Wheat,Area harvested,ha,587961.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Wheat,Area harvested,ha,588892.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Wheat,Area harvested,ha,606140.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Wheat,Area harvested,ha,590191.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Wheat,Area harvested,ha,570822.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Wheat,Area harvested,ha,586654.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Wheat,Area harvested,ha,582966.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Wheat,Area harvested,ha,607744.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Wheat,Area harvested,ha,610836.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Wheat,Area harvested,ha,602400.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Wheat,Area harvested,ha,642463.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Barley,Area harvested,ha,336786.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Barley,Area harvested,ha,314774.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Barley,Area harvested,ha,338112.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Barley,Area harvested,ha,330472.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Barley,Area harvested,ha,330132.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Barley,Area harvested,ha,320215.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Barley,Area harvested,ha,330299.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Barley,Area harvested,ha,344839.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Barley,Area harvested,ha,340803.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Barley,Area harvested,ha,337444.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Barley,Area harvested,ha,346942.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Maize,Area harvested,ha,37928.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Maize,Area harvested,ha,38006.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Maize,Area harvested,ha,39844.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Maize,Area harvested,ha,39119.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Maize,Area harvested,ha,37762.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Maize,Area harvested,ha,41947.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Maize,Area harvested,ha,40664.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Maize,Area harvested,ha,41366.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Maize,Area harvested,ha,43709.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Maize,Area harvested,ha,43018.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Maize,Area harvested,ha,44515.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Potatoes,Area harvested,ha,58842.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Potatoes,Area harvested,ha,59597.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Potatoes,Area harvested,ha,63494.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Potatoes,Area harvested,ha,60340.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Potatoes,Area harvested,ha,60362.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Potatoes,Area harvested,ha,60543.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Potatoes,Area harvested,ha,61622.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Potatoes,Area harvested,ha,58373.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Potatoes,Area harvested,ha,60425.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Potatoes,Area harvested,ha,58532.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Potatoes,Area harvested,ha,56900.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Vegetables,Area harvested,ha,79935.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Vegetables,Area harvested,ha,77918.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Vegetables,Area harvested,ha,77491.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Vegetables,Area harvested,ha,77198.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Vegetables,Area harvested,ha,82495.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Vegetables,Area harvested,ha,82461.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Vegetables,Area harvested,ha,82596.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Vegetables,Area harvested,ha,82982.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Vegetables,Area harvested,ha,83854.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Vegetables,Area harvested,ha,81338.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Vegetables,Area harvested,ha,82149.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Fruits and berries,Area harvested,ha,147980.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Fruits and berries,Area harvested,ha,143975.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Fruits and berries,Area harvested,ha,148215.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Fruits and berries,Area harvested,ha,153391.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Fruits and berries,Area harvested,ha,151080.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Fruits and berries,Area harvested,ha,150613.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Fruits and berries,Area harvested,ha,154888.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Fruits and berries,Area harvested,ha,157340.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Fruits and berries,Area harvested,ha,157738.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Fruits and berries,Area harvested,ha,156406.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Fruits and berries,Area harvested,ha,159760.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Grapes,Area harvested,ha,16514.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Grapes,Area harvested,ha,17635.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Grapes,Area harvested,ha,16935.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Grapes,Area harvested,ha,17741.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Grapes,Area harvested,ha,18192.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Grapes,Area harvested,ha,17726.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Grapes,Area harvested,ha,17939.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Grapes,Area harvested,ha,19281.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Grapes,Area harvested,ha,17666.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Grapes,Area harvested,ha,18623.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Grapes,Area harvested,ha,19098.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Cotton,Area harvested,ha,24027.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Cotton,Area harvested,ha,26331.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Cotton,Area harvested,ha,27530.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Cotton,Area harvested,ha,30146.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Cotton,Area harvested,ha,31672.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Cotton,Area harvested,ha,34688.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Cotton,Area harvested,ha,36884.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Cotton,Area harvested,ha,42193.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Cotton,Area harvested,ha,45829.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Cotton,Area harvested,ha,48905.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Cotton,Area harvested,ha,47616.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Sugar beet,Area harvested,ha,5038.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Sugar beet,Area harvested,ha,5297.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Sugar beet,Area harvested,ha,5319.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Sugar beet,Area harvested,ha,5543.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Sugar beet,Area harvested,ha,5765.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Sugar beet,Area harvested,ha,6045.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Sugar beet,Area harvested,ha,6017.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Sugar beet,Area harvested,ha,6371.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Sugar beet,Area harvested,ha,6485.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Sugar beet,Area harvested,ha,6685.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Sugar beet,Area harvested,ha,6867.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Sunflower seed,Area harvested,ha,11224.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Sunflower seed,Area harvested,ha,11063.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Sunflower seed,Area harvested,ha,11438.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Sunflower seed,Area harvested,ha,11501.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Sunflower seed,Area harvested,ha,11842.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Sunflower seed,Area harvested,ha,12392.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Sunflower seed,Area harvested,ha,12599.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Sunflower seed,Area harvested,ha,12594.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Sunflower seed,Area harvested,ha,12625.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Sunflower seed,Area harvested,ha,12747.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Sunflower seed,Area harvested,ha,13618.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Wheat,Yield,kg/ha,2941.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Wheat,Yield,kg/ha,2981.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Wheat,Yield,kg/ha,3009.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Wheat,Yield,kg/ha,2978.4,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Wheat,Yield,kg/ha,2605.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Wheat,Yield,kg/ha,3055.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Wheat,Yield,kg/ha,3002.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Wheat,Yield,kg/ha,3010.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Wheat,Yield,kg/ha,3243.4,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Wheat,Yield,kg/ha,3260.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Wheat,Yield,kg/ha,3454.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Barley,Yield,kg/ha,2438.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Barley,Yield,kg/ha,2539.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Barley,Yield,kg/ha,2689.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Barley,Yield,kg/ha,2567.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Barley,Yield,kg/ha,2461.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Barley,Yield,kg/ha,2810.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Barley,Yield,kg/ha,2669.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Barley,Yield,kg/ha,2826.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Barley,Yield,kg/ha,3097.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Barley,Yield,kg/ha,2765.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Barley,Yield,kg/ha,3140.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Maize,Yield,kg/ha,5650.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Maize,Yield,kg/ha,5867.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Maize,Yield,kg/ha,5342.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Maize,Yield,kg/ha,5975.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Maize,Yield,kg/ha,5396.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Maize,Yield,kg/ha,6081.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Maize,Yield,kg/ha,5928.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Maize,Yield,kg/ha,6495.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Maize,Yield,kg/ha,6717.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Maize,Yield,kg/ha,6235.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Maize,Yield,kg/ha,7146.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Potatoes,Yield,kg/ha,16196.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Potatoes,Yield,kg/ha,16458.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Potatoes,Yield,kg/ha,17124.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Potatoes,Yield,kg/ha,16172.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Potatoes,Yield,kg/ha,16643.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Potatoes,Yield,kg/ha,17325.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Potatoes,Yield,kg/ha,16484.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Potatoes,Yield,kg/ha,18929.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Potatoes,Yield,kg/ha,19671.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Potatoes,Yield,kg/ha,17809.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Potatoes,Yield,kg/ha,19319.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Vegetables,Yield,kg/ha,16281.4,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Vegetables,Yield,kg/ha,17977.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Vegetables,Yield,kg/ha,18239.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Vegetables,Yield,kg/ha,18731.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Vegetables,Yield,kg/ha,16043.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Vegetables,Yield,kg/ha,18166.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Vegetables,Yield,kg/ha,17745.4,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Vegetables,Yield,kg/ha,18918.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Vegetables,Yield,kg/ha,20839.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Vegetables,Yield,kg/ha,20643.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Vegetables,Yield,kg/ha,22586.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Fruits and berries,Yield,kg/ha,8115.4,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Fruits and berries,Yield,kg/ha,7454.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Fruits and berries,Yield,kg/ha,7733.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Fruits and berries,Yield,kg/ha,7981.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Fruits and berries,Yield,kg/ha,8263.4,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Fruits and berries,Yield,kg/ha,8008.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Fruits and berries,Yield,kg/ha,8138.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Fruits and berries,Yield,kg/ha,8260.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Fruits and berries,Yield,kg/ha,8905.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Fruits and berries,Yield,kg/ha,8704.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Fruits and berries,Yield,kg/ha,9384.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Grapes,Yield,kg/ha,8502.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Grapes,Yield,kg/ha,8954.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Grapes,Yield,kg/ha,8551.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Grapes,Yield,kg/ha,10042.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Grapes,Yield,kg/ha,8570.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Grapes,Yield,kg/ha,9592.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Grapes,Yield,kg/ha,8589.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Grapes,Yield,kg/ha,9064.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Grapes,Yield,kg/ha,10369.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Grapes,Yield,kg/ha,9891.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Grapes,Yield,kg/ha,10335.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Cotton,Yield,kg/ha,1527.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Cotton,Yield,kg/ha,1572.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Cotton,Yield,kg/ha,1677.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Cotton,Yield,kg/ha,1660.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Cotton,Yield,kg/ha,1575.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Cotton,Yield,kg/ha,1824.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Cotton,Yield,kg/ha,1777.1,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Cotton,Yield,kg/ha,1851.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Cotton,Yield,kg/ha,1937.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Cotton,Yield,kg/ha,1902.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Cotton,Yield,kg/ha,2035.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Sugar beet,Yield,kg/ha,35961.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Sugar beet,Yield,kg/ha,34064.9,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Sugar beet,Yield,kg/ha,38484.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Sugar beet,Yield,kg/ha,37128.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Sugar beet,Yield,kg/ha,33940.6,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Sugar beet,Yield,kg/ha,38473.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Sugar beet,Yield,kg/ha,41238.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Sugar beet,Yield,kg/ha,38361.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Sugar beet,Yield,kg/ha,42862.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Sugar beet,Yield,kg/ha,41760.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Sugar beet,Yield,kg/ha,46167.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Sunflower seed,Yield,kg/ha,1796.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Sunflower seed,Yield,kg/ha,1783.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Sunflower seed,Yield,kg/ha,1847.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Sunflower seed,Yield,kg/ha,1936.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Sunflower seed,Yield,kg/ha,1733.5,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Sunflower seed,Yield,kg/ha,2029.2,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Sunflower seed,Yield,kg/ha,1834.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Sunflower seed,Yield,kg/ha,2004.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Sunflower seed,Yield,kg/ha,2305.8,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Sunflower seed,Yield,kg/ha,2072.7,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Sunflower seed,Yield,kg/ha,2301.3,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Wheat,Production,tonnes,1729460.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Wheat,Production,tonnes,1755960.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Wheat,Production,tonnes,1823920.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Wheat,Production,tonnes,1757825.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Wheat,Production,tonnes,1487454.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Wheat,Production,tonnes,1792603.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Wheat,Production,tonnes,1750090.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Wheat,Production,tonnes,1829777.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Wheat,Production,tonnes,1981209.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Wheat,Production,tonnes,1964114.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Wheat,Production,tonnes,2219608.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Barley,Production,tonnes,821266.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Barley,Production,tonnes,799385.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Barley,Production,tonnes,909398.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Barley,Production,tonnes,848572.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Barley,Production,tonnes,812556.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Barley,Production,tonnes,899984.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Barley,Production,tonnes,881598.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Barley,Production,tonnes,974610.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Barley,Production,tonnes,1055785.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Barley,Production,tonnes,933054.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Barley,Production,tonnes,1089514.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Maize,Production,tonnes,214316.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Maize,Production,tonnes,223008.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Maize,Production,tonnes,212867.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Maize,Production,tonnes,233744.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Maize,Production,tonnes,203777.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Maize,Production,tonnes,255081.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Maize,Production,tonnes,241067.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Maize,Production,tonnes,268695.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Maize,Production,tonnes,293630.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Maize,Production,tonnes,268226.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Maize,Production,tonnes,318101.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Potatoes,Production,tonnes,953012.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Potatoes,Production,tonnes,980884.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Potatoes,Production,tonnes,1087303.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Potatoes,Production,tonnes,975851.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Potatoes,Production,tonnes,1004638.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Potatoes,Production,tonnes,1048965.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Potatoes,Production,tonnes,1015795.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Potatoes,Production,tonnes,1104989.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Potatoes,Production,tonnes,1188651.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Potatoes,Production,tonnes,1042424.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Potatoes,Production,tonnes,1099300.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Vegetables,Production,tonnes,1301458.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Vegetables,Production,tonnes,1400724.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Vegetables,Production,tonnes,1413392.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Vegetables,Production,tonnes,1446043.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Vegetables,Production,tonnes,1323476.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Vegetables,Production,tonnes,1498021.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Vegetables,Production,tonnes,1465699.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Vegetables,Production,tonnes,1569906.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Vegetables,Production,tonnes,1747455.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Vegetables,Production,tonnes,1679088.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Vegetables,Production,tonnes,1855483.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Fruits and berries,Production,tonnes,1200911.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Fruits and berries,Production,tonnes,1073295.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Fruits and berries,Production,tonnes,1146182.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Fruits and berries,Production,tonnes,1224305.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Fruits and berries,Production,tonnes,1248429.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Fruits and berries,Production,tonnes,1206217.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Fruits and berries,Production,tonnes,1260533.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Fruits and berries,Production,tonnes,1299727.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Fruits and berries,Production,tonnes,1404678.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Fruits and berries,Production,tonnes,1361370.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Fruits and berries,Production,tonnes,1499323.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Grapes,Production,tonnes,140413.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Grapes,Production,tonnes,157903.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Grapes,Production,tonnes,144828.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Grapes,Production,tonnes,178162.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Grapes,Production,tonnes,155920.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Grapes,Production,tonnes,170044.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Grapes,Production,tonnes,154080.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Grapes,Production,tonnes,174775.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Grapes,Production,tonnes,183192.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Grapes,Production,tonnes,184195.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Grapes,Production,tonnes,197377.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Cotton,Production,tonnes,36712.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Cotton,Production,tonnes,41397.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Cotton,Production,tonnes,46193.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Cotton,Production,tonnes,50070.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Cotton,Production,tonnes,49905.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Cotton,Production,tonnes,63293.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Cotton,Production,tonnes,65548.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Cotton,Production,tonnes,78133.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Cotton,Production,tonnes,88770.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Cotton,Production,tonnes,93056.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Cotton,Production,tonnes,96930.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Sugar beet,Production,tonnes,181164.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Sugar beet,Production,tonnes,180445.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Sugar beet,Production,tonnes,204687.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Sugar beet,Production,tonnes,205795.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Sugar beet,Production,tonnes,195662.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Sugar beet,Production,tonnes,232583.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Sugar beet,Production,tonnes,248131.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Sugar beet,Production,tonnes,244401.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Sugar beet,Production,tonnes,277947.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Sugar beet,Production,tonnes,279163.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Sugar beet,Production,tonnes,317044.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2014,Sunflower seed,Production,tonnes,20166.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2015,Sunflower seed,Production,tonnes,19733.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2016,Sunflower seed,Production,tonnes,21135.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2017,Sunflower seed,Production,tonnes,22270.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2018,Sunflower seed,Production,tonnes,20528.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2019,Sunflower seed,Production,tonnes,25146.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2020,Sunflower seed,Production,tonnes,23111.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2021,Sunflower seed,Production,tonnes,25248.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2022,Sunflower seed,Production,tonnes,29110.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2023,Sunflower seed,Production,tonnes,26421.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis
+Azerbaijan,AZE,2024,Sunflower seed,Production,tonnes,31339.0,synthetic_demo,Synthetic demo dataset structured for FAOSTAT-style crop production analysis

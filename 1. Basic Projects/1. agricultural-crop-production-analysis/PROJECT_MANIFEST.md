@@ -1,0 +1,31 @@
+# Project Manifest
+
+- .gitignore
+- README.md
+- dashboard/dashboard_specification.md
+- data/processed/crop_production_cleaned.csv
+- data/raw/crop_production_raw_faostat_style_synthetic.csv
+- docs/data_dictionary.csv
+- docs/methodology.md
+- notebooks/01_data_understanding.ipynb
+- notebooks/02_data_cleaning.ipynb
+- notebooks/03_exploratory_data_analysis.ipynb
+- notebooks/04_business_insights.ipynb
+- outputs/figures/area_vs_production_latest_year.png
+- outputs/figures/production_trend_selected_crops.png
+- outputs/figures/production_volatility_by_crop.png
+- outputs/figures/top_crops_production_latest_year.png
+- outputs/tables/crop_summary_latest_year.csv
+- outputs/tables/yearly_kpi_summary.csv
+- reports/agricultural_crop_production_analysis_report.docx
+- reports/agricultural_crop_production_analysis_report.md
+- reports/agricultural_crop_production_analysis_report.pdf
+- reports/agricultural_crop_production_analysis_workbook.xlsx
+- reports/excel_dashboard_preview.png
+- reports/executive_summary.md
+- requirements.txt
+- sql/analysis_queries.sql
+- src/data_cleaning.py
+- src/download_real_data_template.py
+- src/feature_engineering.py
+- src/visualization.py
